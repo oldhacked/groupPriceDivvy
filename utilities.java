@@ -8,9 +8,9 @@
 */
 	
 
+//need to update package name
 
-
-package myJavaPrograms;
+package groupPriceDivvy;
 
 public class utilities{
 	public static void main(String[] args){
